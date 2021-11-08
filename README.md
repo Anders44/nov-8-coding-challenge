@@ -1,0 +1,3 @@
+# 8 November Coding Challenge (Due 9 November 11:59 PM Eastern)
+
+Use the Nov8CodingChallenge class and expand the getOppRevByAccount() method so that it uses an aggregate function to return the sum of expected revenue across all opportunities grouped by the names of their related accounts. Once this information has been retrieved, populate a Map<String, Double> with the keys being the name of the account and the values being the sum of expected revenue for all of its related children opportunities. Return this Map<String, Double>.
